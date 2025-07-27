@@ -419,8 +419,10 @@ src/main/java/foro/hub/apiforohub/
 
 🏆Insignias ganadas
 
->> ![img](images/)    Cuarta insignia ganada
+>> ![img](images/Badge-Spring.png)    Cuarta insignia ganada
 
 ## 📜Certificado
 
-![img](images/certificado.png)
+![img](images/certificado1.png)
+
+![img](images/certificado2.png)
