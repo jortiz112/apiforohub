@@ -265,7 +265,7 @@ src/main/java/foro/hub/apiforohub/
 
 >> Si deseas contribuir al proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus mejoras o sugerencias.
 
-## 🔆Resultados del Challenge Literalura - Catálogo de Libros y Consumo de API Gutendex
+## 🔆Resultados del Challenge Construcción del API REST Foro-Hub con Spring Boot 3 y SpringDoc
 
 >> ![img](images/foro4.png)
 
