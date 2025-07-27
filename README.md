@@ -423,6 +423,6 @@ src/main/java/foro/hub/apiforohub/
 
 ## 📜Certificado
 
-![img](images/certificado1.png)
+![img](images/Certificado1.png)
 
-![img](images/certificado2.png)
+![img](images/Certificado2.png)
